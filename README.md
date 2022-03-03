@@ -1,3 +1,8 @@
+# Fork Notes
+This is a FORK to fix SIMD Acceleration.
+[See Documentation](https://docs.microsoft.com/en-us/dotnet/standard/simd)
+Must set target to 64-bit and import System.Numerics
+
 # Elden Ring FPS Unlocker and more
 A small utility to remove frame rate limit, change FOV (Field of View), add widescreen supprt, alter Game Speed and various game modifications for [Elden Ring](https://en.bandainamcoent.eu/elden-ring/elden-ring) written in C#. More features soon!
 Patches games memory while running, does not modify any game files. Works with every game version (legit steam & oh-not-so-legit), should work with all future updates.
